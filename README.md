@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![Breaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true&theme=radical&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Breaker)
+![Breaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true)
+
+![Breaker's wakatime stats](https://github-readme-stats-psi-eosin-55.vercel.app/api/wakatime?username=Breaker&show_icons=true)
+
+![Breaker's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker)
