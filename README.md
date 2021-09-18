@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Breaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true)
 
-![Breaker's wakatime stats](https://github-readme-stats-psi-eosin-55.vercel.app/api/wakatime?username=Breaker&show_icons=true)
+![Breaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Breaker&show_icons=true)
 
 ![Breaker's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker)
