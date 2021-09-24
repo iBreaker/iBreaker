@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
+I'm a security software developer from Beijing, China
 
 - 🔭 I’m currently working on [Zhihu Inc.](https://github.com/zhihu)
-- 🌱 I have worked for [NSfocus](https://www.nsfocus.com.cn/) & [DiDi](https://github.com/didi)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I have worked for [NSFocus](https://www.nsfocus.com.cn/) & [DiDi](https://github.com/didi)
+- 📫 How to reach me: [Github](https://github.com/iBreaker/iBreaker/issues)
 
 ## Languages and Tools
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
