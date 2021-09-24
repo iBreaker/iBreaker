@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## 🐊 Code Stats
 
-| <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true&include_all_commits=true&hide_border=true" alt="Breaker's github stats" /></a> | <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker&layout=compact&hide_border=truer&hide=Gettext%20Catalog" /></a> |
+| <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true&include_all_commits=true&hide_border=true" alt="Breaker's github stats" /></a> | <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker&layout=compact&hide_border=truer&hide=Makefile,Shell,Prolog,HTML,Gettext%20Catalog" /></a> |
 | ------------- | ------------- |
 
 
