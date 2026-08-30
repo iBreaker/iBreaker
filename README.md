@@ -15,7 +15,6 @@ I'm a security software engineer based in Beijing, focused on building reliable 
 ## Selected work
 
 - [bjguahao](https://github.com/iBreaker/bjguahao) — An appointment assistant for Beijing's unified hospital registration platform
-- [transformer](https://github.com/iBreaker/transformer) — Not only a translator
 - [OS-One](https://github.com/iBreaker/OS-One) — A custom operating system for Raspberry Pi
 - [libevent](https://github.com/libevent/libevent) — The event notification library
 
