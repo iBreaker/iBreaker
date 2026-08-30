@@ -1,56 +1,24 @@
-## 👋 Hi there 
+# Hi, I'm Breaker 👋
 
-<!--
-**iBreaker/iBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a security software engineer based in Beijing, focused on building reliable security products and developer tools.
 
-Here are some ideas to get you started:
--->
-I'm a security software developer from Beijing, China
+- Currently working at [Zhihu](https://github.com/zhihu)
+- Previously worked at [NSFOCUS](https://www.nsfocus.com.cn/) and [DiDi](https://github.com/didi)
+- Interested in systems programming, security engineering, and open source
 
-- 🔭 I’m currently working on [Zhihu Inc.](https://github.com/zhihu)
-- 🌱 I have worked for [NSFocus](https://www.nsfocus.com.cn/) & [DiDi](https://github.com/didi)
-- 📫 How to reach me: [Github](https://github.com/iBreaker/iBreaker/issues)
+## Toolbox
 
-## 👺 Languages and Tools
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+**Languages:** `Go` · `Rust` · `Python` · `TypeScript`
 
-## 🐊 Code Stats
+**Web & hardware:** `Vue` · `Raspberry Pi`
 
-| <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iBreaker&show_icons=true&include_all_commits=true&hide_border=true" alt="Breaker's github stats" /></a> | <a href="https://github.com/iBreaker"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBreaker&layout=compact&hide_border=true&langs_count=10&hide=Groff,Perl,Makefile,Shell,Prolog,HTML,Gettext%20Catalog" /></a> |
-| ------------- | ------------- |
+## Selected work
 
+- [bjguahao](https://github.com/iBreaker/bjguahao) — An appointment assistant for Beijing's unified hospital registration platform
+- [transformer](https://github.com/iBreaker/transformer) — Not only a translator
+- [OS-One](https://github.com/iBreaker/OS-One) — A custom operating system for Raspberry Pi
+- [libevent](https://github.com/libevent/libevent) — The event notification library
 
-## 🍀 Wakatime
+## Contact
 
-![Breaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Breaker&show_icons=true) 
-
-
-## 🦄 daily.dev Card
-<a href="https://app.daily.dev/Breaker"><img src="https://api.daily.dev/devcards/d19737e6d0e2456893a9fe5413b9b965.png?r=d0n" width="400" alt="Breaker's Dev Card"/></a>
-
-
-## 🌴 Ongoing Projects
-<a href="https://github.com/iBreaker/bjguahao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBreaker&repo=bjguahao" />
-</a>
-<a href="https://github.com/libevent/libevent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=libevent&repo=libevent" />
-</a>
-</br>
-<a href="https://github.com/iBreaker/transformer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBreaker&repo=transformer" />
-</a>
-<a href="https://github.com/iBreaker/OS-One">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBreaker&repo=OS-One" />
-</a>
-
-
-## ⚡ Github Visitors
-
-
-[![Top Langs](https://profile-counter.glitch.me/iBreaker/count.svg)](https://github.com/iBreaker)
+The best way to reach me is through [GitHub Issues](https://github.com/iBreaker/iBreaker/issues).
